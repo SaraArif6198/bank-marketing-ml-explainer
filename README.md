@@ -71,4 +71,4 @@ The objective of this project is to predict whether a bank customer will subscri
 - UCI Repository: [Bank Marketing Dataset](https://archive.ics.uci.edu/ml/datasets/bank+marketing)
 
 ---
-
+📨 Submitted as part of the DeveloperHub Internship Program
